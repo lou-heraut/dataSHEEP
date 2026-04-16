@@ -18,5 +18,6 @@ Imports:
     zoo,
     magick,
     ggh4x,
-    showtext
+    showtext,
+    gridExtra
 RoxygenNote: 7.3.2

@@ -42,6 +42,7 @@ normalize_reduce = function (vect, plan, vect_plans) {
     return (vect)
 }
 
+
 normalize_mapply = function (vect, vect_plans) {
     if (!all(is.na(vect))) {
         plans = table(vect_plans)
